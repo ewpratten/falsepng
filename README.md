@@ -5,13 +5,6 @@
 [![Clippy](https://github.com/Ewpratten/falsepng/actions/workflows/clippy.yml/badge.svg)](https://github.com/Ewpratten/falsepng/actions/workflows/clippy.yml)
 [![Audit](https://github.com/Ewpratten/falsepng/actions/workflows/audit.yml/badge.svg)](https://github.com/Ewpratten/falsepng/actions/workflows/audit.yml)
 
+`falsepng` is part of a joke with some friends where I have a discord bot adding those annoying "fake transparent backgrounds" to images on purpose.
 
-repo description
-
-## Installation
-
-This crate can be installed via `cargo` with:
-
-```sh
-cargo install falsepng
-```
+For the sake of everyone, don't use this please.
